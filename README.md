@@ -2,6 +2,7 @@
 This code implements the following paper "A non-smooth non-local variational approach to saliency detection in real time" https://link.springer.com/article/10.1007/s11554-020-01016-4
 Variational Methods in manifolds for Saliency segmentation
 
+![](SaliencyWorkflow.png)
 The methods included in this software are the following models:
 
     E(u) = J_{NLTV,w}(u) + \lambda F(u) (Saliency NLTV )
